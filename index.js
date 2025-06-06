@@ -761,7 +761,7 @@ if (reversed == null) { reversed = false; }
 	// bg_blue1___копия
 	this.bg_blue2 = new lib.bg_blue();
 	this.bg_blue2.name = "bg_blue2";
-	this.bg_blue2.setTransform(485,125,1,1,0,0,0,485,125);
+	this.bg_blue2.setTransform(484.7,125.5,1.0041,1.0042,0,0,0,485,125);
 
 	var maskedShapeInstanceList = [this.bg_blue2];
 
@@ -774,7 +774,7 @@ if (reversed == null) { reversed = false; }
 	// bg_blue1
 	this.bg_blue1 = new lib.bg_blue();
 	this.bg_blue1.name = "bg_blue1";
-	this.bg_blue1.setTransform(485,125,1,1,0,0,0,485,125);
+	this.bg_blue1.setTransform(484.7,125.5,1.0041,1.0042,0,0,0,485,125);
 
 	var maskedShapeInstanceList = [this.bg_blue1];
 
